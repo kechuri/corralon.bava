@@ -1,0 +1,16 @@
+*{margin:0;}
+body{
+  font-family:sans-serif;
+}
+#contenido{
+  border:1px solid #000;
+  border-radius:1%;
+  padding:1%;
+  text-align:center;
+  margin:0 auto;
+}
+#contenido button[type=submit]{
+  display:block;
+  margin:1% auto;
+  width:225px;
+}
